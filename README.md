@@ -1,0 +1,2 @@
+# AdaptiveWeb
+AW individual assignment
